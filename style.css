@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Desenvolvedor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="profile-card">
+        <img src="foto.jpg" alt="Foto de Perfil" class="profile-img">
+        <h1>Seu Nome</h1>
+        <p class="title">Desenvolvedor Front-End</p>
+        <p class="bio">Apaixonado por CSS, React e VS Code.</p>
+        <div class="social-links">
+            <a href="#">GitHub</a>
+            <a href="#">LinkedIn</a>
+        </div>
+        <button>Contato</button>
+    </div>
+</body>
+</html>
